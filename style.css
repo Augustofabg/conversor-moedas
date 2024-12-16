@@ -158,14 +158,14 @@ p {
   .Principal{
     background: none;
     margin-bottom: -20px;
-    padding: 6px 15px 16px 16px;
-    margin-left: -5px;
+    padding: 29px 13px 5px 17px;
+    margin-left: 0px;
   }
 }
 
 @media screen and (max-width: 400px) {
   .Principal{
-    padding: 67px 13px 5px 17px;
-    margin-left: 11px;
+    padding: 29px 13px 5px 17px;
+    margin-left: 0px;
   }
 }
